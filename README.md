@@ -1,2 +1,2 @@
 # Brain-Adapter
-code of Brain-Adapter
+model of Brain-Adapter, complete script is being organized
